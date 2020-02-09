@@ -1,7 +1,7 @@
 #include "stdafx.h"
 #include "Client.h"
 #include <iostream>
-#define debugger
+//#define debugger
 
 Client* Client::debugClient=Client::getInstance();
 
